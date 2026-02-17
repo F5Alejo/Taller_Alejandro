@@ -1,3 +1,4 @@
+<<<<<<< develop
 # Portafolio Web Personal  
 ## Evidencia de Desarrollo Frontend
 
@@ -92,3 +93,5 @@ cd proyecto
 
 ```
 ---
+=======
+>>>>>>> main
