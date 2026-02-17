@@ -1,4 +1,3 @@
-<<<<<<< develop
 # Portafolio Web Personal  
 ## Evidencia de Desarrollo Frontend
 
@@ -40,7 +39,6 @@ Desarrollar un portafolio web responsive que permita presentar el perfil profesi
 
 ## 4. Estructura del Proyecto
 
-![alt text](readme/image.png)
 
 ## 5. Descripción de Componentes
 
@@ -49,7 +47,6 @@ Desarrollar un portafolio web responsive que permita presentar el perfil profesi
 - Expansión dinámica mediante JavaScript.
 - Mejora de experiencia de usuario.
 
-![alt text](readme/sidebar.png)
 
 ### 5.2 Animaciones de Scroll
 Implementadas mediante Intersection Observer para activar clases CSS cuando los elementos entran en el viewport.
@@ -57,19 +54,16 @@ Implementadas mediante Intersection Observer para activar clases CSS cuando los 
 ### 5.3 Fondo Animado
 Se utilizó la librería tsParticles para crear un efecto dinámico de partículas en el fondo.
 
-![alt text](readme/fondo.png)
 
 ### 5.4 Sección de Proyectos
 Presentación estructurada de trabajos académicos y personales, en esta parte se separa por secciones cada tematica, de este modo se mira mas ordenada. 
 
-![alt text](readme/seccion.png)
 
 
 
 ### 5.5 Sección Multimedia
 Integración de un video incrustado mediante iframe para reforzar la identidad visual del portafolio.
 
-![alt text](readme/video.png)
 
 ---
 
@@ -94,4 +88,3 @@ cd proyecto
 ```
 ---
 =======
->>>>>>> main
