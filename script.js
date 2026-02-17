@@ -1,3 +1,15 @@
+document.addEventListener("DOMContentLoaded", function () {
+
+  const sidebar = document.getElementById("sidebar");
+  const toggleBtn = document.getElementById("toggleSidebar");
+
+  toggleBtn.addEventListener("click", function () {
+    sidebar.classList.toggle("expanded");
+  });
+
+});
+
+
 document.addEventListener("DOMContentLoaded", function(){
 // Script para el funcionamiento del scroll
   const reveals = document.querySelectorAll(".reveal");
