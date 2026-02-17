@@ -20,14 +20,14 @@ document.addEventListener("DOMContentLoaded", function(){
     fpsLimit: 60,
     particles: {
       number: { value: 120, density: { enable: true, area: 800 } },
-      color: { value: "#ffffff" },
+      color: { value: "#74717149" },
       shape: { type: "circle" },
       opacity: { value: 0.6 },
       size: { value: { min: 1, max: 3 } },
       links: {
         enable: true,
         distance: 150,
-        color: "#fefefe",
+        color: "#6d6d6d58",
         opacity: 0.8,
         width: 1
       },
