@@ -527,6 +527,8 @@ section{
   transition:1s ease;
 }
 
+
+
 .reveal.active{
   opacity:1;
   transform:translateY(0);
