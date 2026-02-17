@@ -20,20 +20,20 @@ document.addEventListener("DOMContentLoaded", function(){
     fpsLimit: 60,
     particles: {
       number: { value: 120, density: { enable: true, area: 800 } },
-      color: { value: "#7a0f2a" },
+      color: { value: "#ffffff" },
       shape: { type: "circle" },
       opacity: { value: 0.6 },
       size: { value: { min: 1, max: 3 } },
       links: {
         enable: true,
         distance: 150,
-        color: "#7a0f2a",
-        opacity: 0.3,
+        color: "#fefefe",
+        opacity: 0.8,
         width: 1
       },
       move: {
         enable: true,
-        speed: 1,
+        speed: 3,
         direction: "none",
         outModes: { default: "out" }
       }
@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", function(){
         onClick: { enable: true, mode: "push" }
       },
       modes: {
-        repulse: { distance: 100 },
+        repulse: { distance: 120 },
         push: { quantity: 4 }
       }
     },
